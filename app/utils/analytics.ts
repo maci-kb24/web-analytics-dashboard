@@ -1,4 +1,4 @@
-import { redis } from '../lib/redis'
+import { redis } from "../lib/redis"
 import { getDate } from '../utils'
 import { parse } from 'date-fns'
 
