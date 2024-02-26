@@ -66,7 +66,7 @@ const AnalyticsDashboard = ({
               }
             />
           </p>
-          <p className='text-3xl text-dark-tremor-content-strong font-semibold'>
+          <p className='text-3xl  text-dark-tremor-content-strong font-semibold'>
             {amtVisitorsToday}
           </p>
         </Card>
