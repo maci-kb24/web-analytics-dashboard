@@ -5,4 +5,3 @@ export const redis = new Redis({
     token: process.env.REDIS_KEY!,
 })
 
-const data = await redis.set('foo', 'bar');
